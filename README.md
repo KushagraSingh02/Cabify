@@ -13,11 +13,11 @@ Front end
 
 ![image](https://user-images.githubusercontent.com/73294651/210431499-c2c77288-c645-4b09-b11a-4c6a3caa61b6.png)
 
-ER DIAGRAM
+#ER DIAGRAM
 
 ![image](https://user-images.githubusercontent.com/73294651/210431214-296daa78-b039-46b2-a570-12e624333f0a.png)
 
-Relationship Schema 
+#Relationship Schema 
 
 ![image](https://user-images.githubusercontent.com/73294651/210431275-1931818f-1b50-458c-a40d-0a51fca7aa70.png)
 
